@@ -1,0 +1,24 @@
+{
+  "name": "medium-to-markdown",
+  "version": "1.0.0",
+  "description": "import a medium URL and convert it to markdown",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SkillFlow, Inc.",
+  "license": "MIT",
+  "keywords": [
+    "medium",
+    "convert",
+    "to",
+    "markdown"
+  ],
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0",
+    "to-markdown": "^3.0.4"
+  }
+}
