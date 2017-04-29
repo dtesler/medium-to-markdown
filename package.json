@@ -20,5 +20,13 @@
     "cheerio": "^0.22.0",
     "request": "^2.81.0",
     "to-markdown": "^3.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkillFlowHQ/medium-to-markdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SkillFlowHQ/medium-to-markdown/issues"
+  },
+  "homepage": "https://github.com/SkillFlowHQ/medium-to-markdown#readme"
 }
