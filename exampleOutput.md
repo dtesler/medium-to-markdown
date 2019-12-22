@@ -1,0 +1,39 @@
+
+> medium-to-markdown@0.0.2 convert C:\dev\misc\medium-to-markdown
+> node index.js "https://medium.com/@almenon214/keeping-yourself-motivated-as-a-coder-a16a6fcf49c7"
+
+Keeping yourself motivated as a coder
+=====================================
+
+[![Almenon](https://miro.medium.com/fit/c/96/96/1*4FAOBq9qVna6uHkxaolTtA.png)](/@almenon214?source=post_page-----a16a6fcf49c7----------------------)
+
+[Almenon](/@almenon214?source=post_page-----a16a6fcf49c7----------------------)
+
+Follow
+
+[Sep 23, 2018](/@almenon214/keeping-yourself-motivated-as-a-coder-a16a6fcf49c7?source=post_page-----a16a6fcf49c7----------------------) · 4 min read
+
+Programmers probably have one of the most distracting jobs in existence. Their entire workday is spent in front of a computer — a literally endless source of entertainment and pleasure, a limitless virtual heaven. With literally just a click of a button, you could be in another world. You could be slaying dragons. You could be learning about the [great molasses flood of 1919](https://www.damninteresting.com/the-great-molasses-flood-of-1919/). You could literally be doing _anything._ So why do programmers spend their time programming, a hobby that could only be described as exciting by masochistic workaholics?
+
+![](https://miro.medium.com/max/60/1*S15R5ty8G-kRGo-ghk2EGA.jpeg?q=20)
+
+<img class="cp t u gs ak" src="https://miro.medium.com/max/2048/1\*S15R5ty8G-kRGo-ghk2EGA.jpeg" width="1024" height="815" role="presentation"/>
+
+Pictured: sticky, sweet, syrupy disaster
+
+Well, the vast sums of money that a software engineer gets is a pretty good reason. Another reason is that they probably are workaholics. You don’t see doctors spending all-nighters at hackathons for a 20$ starbucks giftcard, or linguists designing [languages composed of Arnold Schwarzenegger quotes](http://lhartikk.github.io/ArnoldC/) as a joke.
+
+Or maybe they do it for the pride. Making open source projects gets you virtual street cred — the bigger the project, the better the cred. Guido, the creator of python, is practically a king. Before abdicating his throne he was called the BDFL, or _benevolent dictator for life_. Contributing to a project is a way of becoming something greater than youself and leaving a lasting mark on society. Make a commit, and git will forever stamp you into history, a hash 785b312 saying **_I was there_**_._ _xNinja47, 4/30/2005, changed 3 files for the better_.
+
+Or it could just be for practical reasons — you need to keep your skills sharp, after all. And open source work looks good on your resume. Not everyone loves programming — for some it’s just a high paying job to slog through untill they get home to their families and social life.
+
+But if you’re reading this article, maybe you _don’t_ have anything to motivate you. Maybe reddit sounds like a good idea. Stop! Don’t do it! No [funny cat pics](https://i.reddituploads.com/788c8a3ab05243d59259410aa0eb71f9?fit=max&h=1536&w=1536&s=47f691afce2df783c20f31d702427957)! No [cute bears](https://i.redd.it/vkyg59t2ddp01.jpg)! Keep on writing this medium article! (_I may be speaking to myself here)_. So without further ado, here is some strategies to employ for keeping yourself in shape:
+
+1.  **Deadlines**: set deadlines for yourself — github [milestones](https://github.com/Almenon/AREPL-vscode/milestones?state=closed) and [issues](https://github.com/Almenon/AREPL-vscode/issues) are great for this. If you look at my projects I have _hundreds_ of issues I create for myself to keep track of my work. Another benefit of writing issues is that you have written documentation to refer to when you go back to working on it. Or if you’re not on github, you can simply set up calendar events. Maybe even tell your friends that you will get something done by a certain time — that creates commitment.
+2.  **Releases.** Your project is a piece of crap. It barely functions, the architecture is horrible, and [you don’t even really know what you’re doing](https://en.wikipedia.org/wiki/Impostor_syndrome). The last thing you want to do is to expose your baby duckling to the public. But at a certain point you have to cut your losses — you can’t just keep on working on something forever, because then you’re going to have burnout. And you may be pleasantly surprised. Maybe people will like it. Worst case scenario, people will hate it, but in the process of shitting all over it they inadvertently give you helpful advice to fix it. In fact, in my experience the detractors are more helpful than the fans, because they will give you actual advice, not just “oh that looks cool”.
+3.  **Maximize Fun**. Look for more pleasurable and fulfilling fun, rather than lazy and cheap entertainment. For example, it’s far too easy to _control-n_ to open a new tab and type in the letter r to get the autocomplete for reddit. That’s just 3 keys and a enter. Reddit is fun, I love it, but its filled with low effort reposts. Taking the time to watch a show or even a movie might be a better idea — you have a clear chance to stop (at the end) rather than scrolling through reddit’s infinite amount of content. Important disclaimer: _never_ click on netflix’s next episode button. That’s a feature designed by the devil to get you to binge-watch shows and hate yourself afterwards. If you actually have time to watch the next episode then you can wait for the credits to go by. Or more likely, realize what you are doing and go do something productive.
+4.  **Take walks.** Rest your eyes. Think about how to approach the problem. If you’re me, try reading while walking. It’s not that dangerous — you’ve only bumped into a pole once or twice.
+5.  **Get the support of others**. Join a slack/discord community. Make a program that other people use. Ask for advice from your friends. Go to programming meetups. Go to [programming conventions](/@almenon214/pycon-2018-6b1c45889e3b) — it’s a great excuse for a vacation, and it’s a lot less dry than it sounds. Go past your normal boundaries — you might be surprised as to what you are capable of.
+6.  **Add** [**telemetry**](/@almenon214/adding-telemetry-to-your-vscode-extension-f3d52d2e573c) **or** [**alerting**](/@almenon214/setting-up-email-alerts-for-your-vscode-extension-using-azure-d755651b2e0d) **to your program**. It might not be practical for a small application, but it is _extremely_ useful as a motivating tool. Every day I get emails from around the world. People use [AREPL](https://github.com/Almenon/AREPL-vscode) in [New York, Canada, Brazil, Chile. Europe, Japan, Israel, and Pakistan](/@almenon214/arepl-stats-for-june-5e0c87636c3). Every day it’s a different country. It’s significant to know that people are using what I make and relying on me to continue developing it. In a similar vein, I also get emails whenever my reddit bot posts. I can see if people upvote it or if there are problems with the bot I need to fix.
+
+Hopefully these tips are helpful to you. If they are, I’d love to hear it. Or maybe you have a tip of your own — either way, leave a comment below!
