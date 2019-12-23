@@ -1,5 +1,5 @@
 
-> medium-to-markdown@0.0.2 convert C:\dev\misc\medium-to-markdown
+> medium-to-markdown@0.0.3 convert C:\dev\misc\medium-to-markdown
 > node index.js "https://medium.com/@almenon214/keeping-yourself-motivated-as-a-coder-a16a6fcf49c7"
 
 Keeping yourself motivated as a coder
@@ -14,8 +14,6 @@ Follow
 [Sep 23, 2018](https://medium.com/@almenon214/keeping-yourself-motivated-as-a-coder-a16a6fcf49c7?source=post_page-----a16a6fcf49c7----------------------) · 4 min read
 
 Programmers probably have one of the most distracting jobs in existence. Their entire workday is spent in front of a computer — a literally endless source of entertainment and pleasure, a limitless virtual heaven. With literally just a click of a button, you could be in another world. You could be slaying dragons. You could be learning about the [great molasses flood of 1919](https://www.damninteresting.com/the-great-molasses-flood-of-1919/). You could literally be doing _anything._ So why do programmers spend their time programming, a hobby that could only be described as exciting by masochistic workaholics?
-
-![](https://miro.medium.com/max/60/1*S15R5ty8G-kRGo-ghk2EGA.jpeg?q=20)
 
 <img class="cp t u gs ak" src="https://miro.medium.com/max/2048/1\*S15R5ty8G-kRGo-ghk2EGA.jpeg" width="1024" height="815" role="presentation"/>
 
