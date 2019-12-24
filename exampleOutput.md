@@ -5,13 +5,7 @@
 Keeping yourself motivated as a coder
 =====================================
 
-[![Almenon](https://miro.medium.com/fit/c/96/96/1*4FAOBq9qVna6uHkxaolTtA.png)](https://medium.com/@almenon214?source=post_page-----a16a6fcf49c7----------------------)
-
-[Almenon](https://medium.com/@almenon214?source=post_page-----a16a6fcf49c7----------------------)
-
-Follow
-
-[Sep 23, 2018](https://medium.com/@almenon214/keeping-yourself-motivated-as-a-coder-a16a6fcf49c7?source=post_page-----a16a6fcf49c7----------------------) · 4 min read
+[![Almenon](https://miro.medium.com/fit/c/96/96/1*4FAOBq9qVna6uHkxaolTtA.png)](https://medium.com/@almenon214?source=post_page-----a16a6fcf49c7----------------------)[Almenon](https://medium.com/@almenon214?source=post_page-----a16a6fcf49c7----------------------)Follow[Sep 23, 2018](https://medium.com/@almenon214/keeping-yourself-motivated-as-a-coder-a16a6fcf49c7?source=post_page-----a16a6fcf49c7----------------------) · 4 min read
 
 Programmers probably have one of the most distracting jobs in existence. Their entire workday is spent in front of a computer — a literally endless source of entertainment and pleasure, a limitless virtual heaven. With literally just a click of a button, you could be in another world. You could be slaying dragons. You could be learning about the [great molasses flood of 1919](https://www.damninteresting.com/the-great-molasses-flood-of-1919/). You could literally be doing _anything._ So why do programmers spend their time programming, a hobby that could only be described as exciting by masochistic workaholics?
 
