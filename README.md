@@ -23,6 +23,10 @@ Replace the link with the article you want to convert.
 
 Replace the link with the article you want to convert.
 
+### What does the output look like?
+
+See `examples/exampleOutput.md` for an example of what https://medium.com/@almenon214/keeping-yourself-motivated-as-a-coder-a16a6fcf49c7 looks like when converted to markdown.
+
 ### API Usage
 
 Currently, the module supports getting the markdown from a medium post by URL.
