@@ -3,7 +3,31 @@
 
 This module lets you take a medium post and convert it to markdown.
 
-### Usage
+### Command Line Usage
+
+**Setup:**
+
+1. Install npm if not already installed
+2. Clone the repo
+3. run `npm install` inside the repo
+
+**Outputting to command line:**
+
+`npm run convert https://medium.com/@almenon214/keeping-yourself-motivated-as-a-coder-a16a6fcf49c7`
+
+Replace the link with the article you want to convert.
+
+**Outputting to file:**
+
+`npm run convert https://medium.com/@almenon214/keeping-yourself-motivated-as-a-coder-a16a6fcf49c7 > exampleOutput.md`
+
+Replace the link with the article you want to convert.
+
+### What does the output look like?
+
+See `examples/exampleOutput.md` for an example of what https://medium.com/@almenon214/keeping-yourself-motivated-as-a-coder-a16a6fcf49c7 looks like when converted to markdown.
+
+### API Usage
 
 Currently, the module supports getting the markdown from a medium post by URL.
 
