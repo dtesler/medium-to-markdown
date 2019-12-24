@@ -13,7 +13,9 @@ Enter telemetry — by automatically collecting statistics and/or errors, you ca
 
 [Azure application insights](https://azure.microsoft.com/en-us/services/application-insights/) makes this collection very simple (and free):
 
+```
 npm install [vscode-extension-telemetry](https://github.com/Microsoft/vscode-extension-telemetry) --save
+```
 
 If you want a real-world example of its useage you can take a look at how I use it in [AREPL-vscode](https://github.com/Almenon/AREPL-vscode/blob/master/src/telemetry.ts).
 
@@ -29,21 +31,27 @@ distinct users, ordered by last use date.
 
 Some other useful queries:
 
+```
 // heaviest users by avg time spent using extcustomEvents |   
 where timestamp < now() and name=="almenon.arepl/closed" |   
 summarize timeOpen=avg(todouble(customDimensions.timeSpent)) by cloud\_RoleInstance | order by timeOpen
+```
 
 * * *
 
+```
 // most frequent users by number of times openedcustomEvents |   
 where timestamp < now() and name=="almenon.arepl/closed" |   
 summarize numEvents=count(iKey) by cloud\_RoleInstance | order by numEvents
+```
 
 * * *
 
 You can even project your results into graphs
 
+```
 customEvents | where name == 'almenon.arepl/closed' | summarize count() by client\_CountryOrRegion | render piechart
+```
 
 <img class="cp t u gw ak" src="https://miro.medium.com/max/1448/1\*Su93PsHonYivRH\_b8ktvKw.png" width="724" height="601" role="presentation"/>
 
